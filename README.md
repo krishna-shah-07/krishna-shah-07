@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishna-shah-07
 - 👀 I’m interested in learning and coding
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on new interesting projects
+- 🌱 I’m currently learning C and JAVA language
+- 💞️ I’m looking to collaborate on new interesting projects and learn
 - 📫 reach me through email krishnashah131103@gmail.com
 
 Looking forward for great cooperation
