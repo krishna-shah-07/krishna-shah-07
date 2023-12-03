@@ -15,11 +15,18 @@
 
 - 📫 How to reach me **krishnashah131103@gmail.com**
 
+- ⚡ Fun fact **I think I click good photographs**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahiknrs7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahiknrs7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krishna-shah-104b711a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-shah-104b711a7" height="30" width="40" /></a>
+<a href="https://kaggle.com/krishnasshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishnasshah" height="30" width="40" /></a>
 <a href="https://instagram.com/i.krishna___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.krishna___" height="30" width="40" /></a>
+<a href="https://hashnode.com/krish13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="krish13" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/krishna_1311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krishna_1311" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/21ce128_krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21ce128_krishna" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/21ce128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="21ce128" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krish1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krish1311" height="30" width="40" /></a>
 </p>
 
