@@ -11,9 +11,15 @@
 
 - 👯 I’m looking to collaborate on **AI/ML development projects**
 
+- 👨‍💻 All of my projects are available at [https://krishna-shah.tiiny.site](https://krishna-shah.tiiny.site)
+
+- 📝 I regularly write articles on [https://ahiknrs.wordpress.com](https://ahiknrs.wordpress.com)
+
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **krishnashah131103@gmail.com**
+
+- 📄 Know about my experiences [https://krishna-shah.tiiny.site](https://krishna-shah.tiiny.site)
 
 - ⚡ Fun fact **I think I click good photographs**
 
