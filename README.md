@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krishna Shah</h1>
 <h3 align="center">An AI/ML developer and a passionate writer doing Computer Engineering.</h3>
 
+<a href="https://app.daily.dev/ahiknrs"><img src="https://api.daily.dev/devcards/9ca0c23eb3ff4f97b0007748faa64383.png?r=cpx" width="400" alt="Krishna Shah's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-shah-07&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-shah-07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-shah-07" alt="krishna-shah-07" /></a> </p>
