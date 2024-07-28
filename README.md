@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/ahiknrs7" target="blank"><img src="https://img.shields.io/twitter/follow/ahiknrs7?logo=twitter&style=for-the-badge" alt="ahiknrs7" /></a> </p>
 
 
-<a href="https://app.daily.dev/ahiknrs"><img src="https://api.daily.dev/devcards/9ca0c23eb3ff4f97b0007748faa64383.png?r=cpx" width="400" alt="Krishna Shah's Dev Card"/></a>
+<a href="https://app.daily.dev/ahiknrs"><img src="https://api.daily.dev/devcards/v2/eXh08ju0xRQCOPUUHmHmD.png?r=sms" width="356" alt="Krishna Shah's Dev Card"/></a>
 
 - 🌱 I’m currently learning **Flutter and Deep Learning**
 
