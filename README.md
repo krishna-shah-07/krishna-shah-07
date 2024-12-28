@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Enthusiast;%20NLP+Researcher;%20Python+Developer;%20Oracle+Certified;%20Poet+and+Creator&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
-### 👉 Programming Languages
+### Programming Languages
 
 <p align="left">
   &emsp;
@@ -15,33 +15,33 @@
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white" alt="Java"/>
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++"/>
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### Databases & Cloud Hosting
 
 <p align="left">
   &emsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" alt="MySQL"/>
   </a>
   &emsp;
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+    <img src="https://img.shields.io/badge/Oracle-%23F00000.svg?logo=oracle&logoColor=white" alt="Oracle"/>
   </a>
   &emsp;
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/Azure-%230078D4.svg?logo=microsoft-azure&logoColor=white" alt="Azure"/>
   </a>
   &emsp;
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   </a>
 </p>
 
-### 👉 Software & Tools
+### Software & Tools
 
 <p align="left">
   &emsp;
@@ -54,23 +54,23 @@
   <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-%23F9AB00.svg?logo=google-colab&logoColor=white"/></a>
   &emsp;
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white" alt="PyTorch"/>
   </a>
   &emsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   </a>
   &emsp;
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   </a>
   &emsp;
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Seaborn-0096D6?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+    <img src="https://img.shields.io/badge/Seaborn-%230096D6.svg?logo=seaborn&logoColor=white" alt="Seaborn"/>
   </a>
   &emsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white" alt="Pandas"/>
   </a>
 </p>
 
