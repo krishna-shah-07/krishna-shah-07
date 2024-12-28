@@ -7,7 +7,7 @@
 
 <p align="left">
   &emsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <a href="https://www.python.org" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" alt="Python"/>
   </a>
   &emsp;
