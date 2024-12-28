@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna Shah</h1>
+<h1 align="center">Hi, I'm Krishna Shah! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Enthusiast;%20NLP+Researcher;%20CloudSim+Simulator;%20AWS+Certified;%20Poet+and+Creator&center=true&width=500&height=50&font=georgia"></a>
 </p>
