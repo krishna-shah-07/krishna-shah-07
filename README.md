@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Shah</h1>
-<h3 align="center">An AI/ML developer and a passionate writer doing Computer Engineering.</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=426EF7&vCenter=true&width=435&lines=Transforming+bugs+into+features+and+ideas%C2%A0into%C2%A0art." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-shah-07&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-shah-07" /> </p>
 
