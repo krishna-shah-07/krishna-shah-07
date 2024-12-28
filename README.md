@@ -78,14 +78,14 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishnashah99&theme=nord_dark" width="49%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishnashah99&theme=nord_dark&utcOffset=5.30" width="49%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnashah99&theme=gotham&custom_title=Previous%2030%20Days%20GitHub%20Contributions" width="99%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07&theme=nord_dark" width="49%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?usernamekrishna-shah-07&theme=nord_dark&utcOffset=5.30" width="49%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-shah-07&theme=gotham&custom_title=Previous%2030%20Days%20GitHub%20Contributions" width="99%">
     
 <details>
 
 <summary> <strong> Show more Stats </strong> </summary>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnashah99&theme=nord_dark" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-shah-07&theme=nord_dark" width="100%">
 
 </details>
 </div>
