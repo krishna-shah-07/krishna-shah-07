@@ -8,11 +8,11 @@
 <p align="left">
   &emsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" alt="Python"/>
   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white" alt="Java"/>
   </a>
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
