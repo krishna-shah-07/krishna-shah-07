@@ -74,17 +74,17 @@
   <tr>
     <!-- GitHub Summary Stats -->
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07&theme=nord_dark" alt="GitHub Stats" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07" alt="GitHub Stats" width="100%" />
     </td>
     <!-- GitHub Streak Stats -->
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-shah-07&theme=nord" alt="GitHub Streak Stats" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-shah-07" alt="GitHub Streak Stats" width="100%" />
     </td>
   </tr>
   <tr>
     <!-- GitHub Profile Details -->
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-shah-07&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-shah-07" alt="GitHub Profile Details" width="100%" />
     </td>
   </tr>
 </table>
