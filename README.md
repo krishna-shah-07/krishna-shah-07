@@ -87,12 +87,6 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-shah-07&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
     </td>
   </tr>
-  <tr>
-    <!-- Streak Stats -->
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=krishna-shah-07&show_icons=true&locale=en&theme=nord" alt="GitHub Streak Stats" width="100%" />
-    </td>
-  </tr>
 </table>
 
 ## Leetcode Stats 🏆
