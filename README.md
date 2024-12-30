@@ -72,9 +72,20 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07&theme=nord_dark" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-shah-07&show_icons=true&locale=en&layout=compact&theme=nord_dark" alt="krishna-shah-07" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-shah-07&theme=nord_dark" width="100%">
+  <!-- GitHub Summary Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07&theme=nord_dark" alt="GitHub Stats" width="45%" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-shah-07&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" width="45%" />
+  
+  <!-- GitHub Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-shah-07&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
+
+  <!-- GitHub General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna-shah-07&show_icons=true&locale=en&theme=nord" alt="General Stats" width="80%" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-shah-07&theme=nord" alt="GitHub Streak Stats" width="80%" />
 
 </div>
 
