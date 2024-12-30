@@ -1,6 +1,6 @@
 <h1 align="center">Krishna Shah! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Enthusiast;%20NLP+Researcher;%20Python+Developer;%20Oracle+Certified;%20Poet+and+Creator&center=true&width=500&height=50&font=georgia"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Enthusiast;%20NLP+Researcher;%20Python+Developer;%20Oracle+Certified&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
 ### Programming Languages
@@ -53,24 +53,16 @@
   &emsp;
   <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-%23F9AB00.svg?logo=google-colab&logoColor=white"/></a>
   &emsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <a href="https://www.baseten.co/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/BaseTen-%233D9970.svg?logo=baseten&logoColor=white" alt="BaseTen"/>
   </a>
   &emsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD300.svg?logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
   &emsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  </a>
-  &emsp;
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Seaborn-%230096D6.svg?logo=seaborn&logoColor=white" alt="Seaborn"/>
-  </a>
-  &emsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white" alt="Pandas"/>
+  <a href="https://comfyui.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ComfyUI-%2300ADEF.svg?logo=artstation&logoColor=white" alt="ComfyUI"/>
   </a>
 </p>
 
