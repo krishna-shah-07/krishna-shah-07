@@ -5,12 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-shah-07&column=9" alt="krishna-shah-07" /></a> </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishna-shah-07&column=9" alt="krishna-shah-07 Trophies" />
-  </a>
-</p>
-
 ### Programming Languages
 
 <p align="left">
