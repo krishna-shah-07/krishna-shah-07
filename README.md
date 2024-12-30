@@ -90,7 +90,7 @@
   <tr>
     <!-- Most Used Languages -->
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-shah-07&show_icons=true&locale=en&layout=compact&theme=nord&card_height=150" alt="Most Used Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-shah-07&show_icons=true&locale=en&layout=compact&theme=nord&card_height=50" alt="Most Used Languages" width="100%" />
     </td>
   </tr>
 </table>
