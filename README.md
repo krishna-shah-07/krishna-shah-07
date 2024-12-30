@@ -70,21 +70,30 @@
 
 ## Github Stats 🏆
 
-<div align="center">
-
-  <!-- GitHub Summary Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07&theme=nord_dark" alt="GitHub Stats" width="45%" height="20%" />
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-shah-07&theme=nord" alt="GitHub Streak Stats" width="45%" style="vertical-align: top;" />
-  
-  <!-- GitHub Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-shah-07&theme=nord_dark" alt="GitHub Profile Details" width="90%" />
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-shah-07&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" width="90%" />
-
-</div>
+<table align="center">
+  <tr>
+    <!-- GitHub Summary Stats -->
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07&theme=nord_dark" alt="GitHub Stats" width="100%" />
+    </td>
+    <!-- GitHub Streak Stats -->
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-shah-07&theme=nord" alt="GitHub Streak Stats" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <!-- GitHub Profile Details -->
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-shah-07&theme=nord_dark" alt="GitHub Profile Details" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Most Used Languages -->
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-shah-07&show_icons=true&locale=en&layout=compact&theme=nord" alt="Most Used Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ## Leetcode Stats 🏆
 
