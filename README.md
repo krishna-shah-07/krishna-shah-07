@@ -3,6 +3,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Enthusiast;%20NLP+Researcher;%20Python+Developer;%20Oracle+Certified&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-shah-07&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-shah-07" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-shah-07" alt="krishna-shah-07" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ahiknrs7" target="blank"><img src="https://img.shields.io/twitter/follow/ahiknrs7?logo=twitter&style=for-the-badge" alt="ahiknrs7" /></a> </p>
+
 ### Programming Languages
 
 <p align="left">
