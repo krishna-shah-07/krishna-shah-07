@@ -73,10 +73,10 @@
 <div align="center">
 
   <!-- GitHub Summary Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07&theme=nord_dark" alt="GitHub Stats" width="45%" style="vertical-align: top;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07&theme=nord_dark" alt="GitHub Stats" width="45%" style="vertical-align: top;" />
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-shah-07&theme=nord" alt="GitHub Streak Stats" width="45%" style="vertical-align: top;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-shah-07&theme=nord" alt="GitHub Streak Stats" width="45%" style="vertical-align: top;" />
   
   <!-- GitHub Profile Details -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-shah-07&theme=nord_dark" alt="GitHub Profile Details" width="90%" />
