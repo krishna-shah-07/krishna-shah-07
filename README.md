@@ -88,9 +88,9 @@
     </td>
   </tr>
   <tr>
-    <!-- Most Used Languages -->
+    <!-- Streak Stats -->
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-shah-07&show_icons=true&locale=en&layout=compact&theme=nord&card_height=50" alt="Most Used Languages" width="100%" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-shah-07&theme=nord_dark" alt="krishna-shah-07" alt="Streak Stats" width="100%" />
     </td>
   </tr>
 </table>
