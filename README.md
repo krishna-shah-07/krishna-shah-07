@@ -3,9 +3,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Enthusiast;%20NLP+Researcher;%20Python+Developer;%20Oracle+Certified&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-shah-07&column=9" alt="krishna-shah-07" /></a> </p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishna-shah-07&theme=onestar&column=7" alt="krishna-shah-07 Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=krishna-shah-07&column=9" alt="krishna-shah-07 Trophies" />
   </a>
 </p>
 
