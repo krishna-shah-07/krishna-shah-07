@@ -73,7 +73,7 @@
 <div align="center">
 
   <!-- GitHub Summary Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07&theme=nord_dark" alt="GitHub Stats" width="45%" style="vertical-align: top;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07&theme=nord_dark" alt="GitHub Stats" width="45%" height="20%" />
 
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-shah-07&theme=nord" alt="GitHub Streak Stats" width="45%" style="vertical-align: top;" />
