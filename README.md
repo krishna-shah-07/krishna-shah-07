@@ -74,8 +74,7 @@
   <tr>
     <!-- GitHub Summary Stats -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=krishna-shah-07&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="100%" />
-<!--       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07" alt="GitHub Stats" width="100%" /> -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-shah-07" alt="GitHub Stats" width="100%" />
     </td>
     <!-- GitHub Streak Stats -->
     <td>
